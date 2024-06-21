@@ -10,9 +10,9 @@
     "test": "jest"
   },
   "dependencies": {
-    "react": "18.2.0",
-    "react-native": "0.74.0",
     "@react-native-community/slider": "^4.5.2",
+    "react": "18.2.0",
+    "react-native": "^0.75.0-nightly-20240618-5df5ed1a8",
     "react-native-track-player": "git+https://behenate@github.com/behenate/react-native-track-player.git#@behenate/improve-bridgeless-support"
   },
   "devDependencies": {
